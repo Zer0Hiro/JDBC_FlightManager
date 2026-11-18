@@ -1,1 +1,9 @@
-.idea
+.idea/
+*.iml
+out/
+target/
+*.class
+lib/
+docker-compose.ymlsecrets.env
+node_modules/
+*.log

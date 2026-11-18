@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS Arrivals;
+DROP TABLE IF EXISTS FlightRoutes;
