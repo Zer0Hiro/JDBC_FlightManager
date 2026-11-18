@@ -4,9 +4,11 @@ out/
 target/
 *.class
 lib/
-docker-compose.ymlsecrets.env
+docker-compose.yml
+secrets.env
 node_modules/
 *.log
 secrets.env
 node_modules/
 *.log
+docker-compose.yml
