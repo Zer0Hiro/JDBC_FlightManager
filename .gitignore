@@ -7,3 +7,6 @@ lib/
 docker-compose.ymlsecrets.env
 node_modules/
 *.log
+secrets.env
+node_modules/
+*.log
